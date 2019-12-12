@@ -1,0 +1,532 @@
+		
+		
+Pada	IN	O
+pemberitaan	NN	O
+sebelumnya	NNG	O
+,	,	
+3	CDP	
+September	NN	O
+,	,	
+Datu	NNP	B-PER
+-	-	
+Ramos	NNP	I-PER
+sudah	MD	O
+mencuatkan	VBT	O
+isu	NNP	O
+terkait	VBT	O
+sertifikasi	NN	O
+halal	NN	O
+katering	NN	O
+untuk	IN	O
+para	DT	O
+tamu	NN	I-PER
+muslim	NN	I-ORG
+di	IN	O
+SEA	NN	I-ORG
+Games	NN	I-ORG
+2019	CDP	I-ORG
+.	.	
+		
+		
+Dia	PRP	B-PER
+juga	RB	O
+sempat	RB	O
+mempertanyakan	VBT	O
+ketersediaan	NN	O
+tempat	NN	O
+-	-	
+tempat	NN	O
+salat	NN	O
+dengan	IN	O
+petunjuk	NN	O
+arah	NN	O
+kiblat	NN	O
+yang	SC	O
+sesuai	RB	O
+.	.	
+		
+		
+Pada	IN	O
+Minggu	NN	O
+(	OP	O
+24/11)	11)	O
+,	,	
+Chef	NNP	B-PER
+de	NNP	I-PER
+Mission	NNP	I-PER
+Singapura	NNP	I-LOC
+,	,	
+Juliana	NN	B-PER
+Seow	NN	I-PER
+,	,	
+menyurati	VBT	O
+penyelenggara	NN	O
+SEA	NN	I-ORG
+Games	NN	I-ORG
+2019	JJ	I-ORG
+di	IN	O
+Manila	NNP	I-LOC
+agar	SC	O
+segera	RB	O
+menyelesaikan	VBT	O
+masalah	NN	O
+akomodasi	NN	O
+para	DT	O
+atlet	NN	O
+yang	SC	O
+dinilai	VBT	O
+buruk	JJ	O
+.	.	
+		
+		
+Kondisi	NN	O
+penyelenggaraan	NN	O
+layanan	NN	O
+akomodasi	NN	O
+SEA	NN	I-ORG
+Games	NN	I-ORG
+yang	SC	O
+buruk	JJ	O
+dinilainya	NN	O
+mengganggu	VBT	O
+persiapan	NN	O
+para	DT	O
+atlet	NN	O
+.	.	
+		
+		
+Seow	NN	B-PER
+sempat	RB	O
+mengungkapkan	VBT	O
+rombongan	NN	O
+kontingen	NN	O
+Singapura	NNP	I-LOC
+yang	SC	O
+tinggal	VBI	O
+di	IN	O
+Hotel	NN	I-LOC
+Century	NNP	I-LOC
+Manila	NNP	I-LOC
+terpaksa	VBT	O
+mencari	VBT	O
+sendiri	JJ	O
+makanan	NN	O
+karena	CC	O
+tidak	NEG	O
+terdapat	VBT	O
+menu	NN	O
+halal	NN	O
+atau	CC	O
+alternatif	NN	O
+lainnya	NNG	O
+.	.	
+		
+		
+Media	NNP	B-ORG
+Malaysia	NNP	I-LOC
+Bernama	NN	I-ORG
+juga	RB	O
+menyoroti	VBT	O
+krisis	NN	O
+makanan	NN	O
+halal	NN	O
+di	IN	O
+SEA	NN	I-ORG
+Games	NN	I-ORG
+2019	CDP	I-ORG
+.	.	
+Situasi	NN	O
+itu	DT	O
+juga	RB	O
+menyulitkan	VBT	O
+para	DT	O
+jurnalis	NN	O
+muslim	NN	O
+di	IN	O
+negara	NN	O
+tersebut	DT	O
+.	.	
+		
+		
+ 		
+Kami	PRP	B-PER
+sangat	RB	O
+sadar	NN	O
+kesulitan	NN	O
+mendapatkan	VBT	O
+makanan	NN	O
+halal	NN	O
+di	IN	O
+Filipina	NNP	I-LOC
+dan	CC	O
+kami	PRP	O
+berharap	VBT	O
+dimudahkan	VBT	O
+soal	NN	O
+makanan	NN	O
+halal	NN	O
+.	.	
+		
+		
+Ini	DT	O
+akan	MD	O
+sangat	RB	O
+membantu	VBT	O
+para	DT	O
+jurnalis	NN	O
+olahraga	NN	O
+yang	SC	O
+memiliki	VBT	O
+waktu	NN	O
+terbatas	VBI	O
+[	OP	
+mencari	VBT	O
+makanan	NN	O
+halal	NN	O
+]	CP	
+di	IN	O
+tengah	NN	O
+tugas	NN	O
+-	-	
+tugasnya,	NN	O
+ 		
+demikian	DT	O
+tulis	VBT	O
+Bernama	NN	I-ORG
+.	.	
+		
+		
+Rombongan	NNP	O
+Timnas	NNP	I-ORG
+Indonesia	NNP	I-LOC
+juga	RB	O
+diberitakan	VBT	O
+kesulitan	NN	O
+mencari	VBT	O
+makanan	NN	O
+halal	NN	O
+sehingga	SC	O
+sempat	RB	O
+tak	NEG	O
+sengaja	VBT	O
+memakan	VBT	O
+menu	NN	O
+babi	NN	O
+yang	SC	O
+diharamkan	VBT	O
+untuk	IN	O
+muslim	NN	O
+.	.	
+		
+		
+ 		
+Sampai	VBT	O
+sekarang	NN	O
+mereka	PRP	O
+belum	NEG	O
+menangani	VBT	O
+informasi	NN	O
+dengan	IN	O
+baik	JJ	O
+.	.	
+Jadi	JJ	O
+kami	PRP	I-PER
+harap	NN	O
+di	IN	O
+hari	NN	O
+-	-	
+hari	NN	O
+mendatang	NN	O
+mereka	PRP	O
+bisa	MD	O
+memperbaiki	VBT	O
+hal	NN	O
+ini	DT	O
+untuk	IN	O
+memisahkan	VBT	O
+makanan	NN	O
+halal	NN	O
+dan	CC	O
+non	NEG	O
+-	-	
+halal,	NN	O
+ 		
+kata	VBT	O
+Media	NNP	I-ORG
+Officer	FW	I-ORG
+Timnas	NN	I-ORG
+Indonesia	NNP	I-LOC
+,	,	
+Gatot	NNP	B-PER
+Widakdo	NNP	I-PER
+.	.	
+		
+		
+Ketua	NN	B-ORG
+Umum	JJ	I-ORG
+PB	NNP	I-ORG
+Persatuan	NN	I-ORG
+Senam	NN	I-ORG
+Indonesia	NNP	I-LOC
+(	OP	
+Persani)	NN	I-ORG
+,	,	
+Ita	NNP	B-PER
+Yualita	NNP	I-PER
+,	,	
+membantah	VBT	O
+anggapan	NN	O
+yang	SC	O
+menyatakan	VBT	O
+bahwa	SC	O
+harus	MD	O
+ada	VBI	O
+tes	NN	O
+keperawanan	NN	O
+untuk	IN	O
+atlet	NN	I-PER
+senam	NN	O
+.	.	
+		
+		
+Sebelumnya	NNG	O
+pencoretan	NN	O
+atlet	NN	I-PER
+pelatnas	NN	O
+SEA	NN	I-ORG
+Games	NN	I-ORG
+2019	CDP	I-ORG
+,	,	
+Shalfa	NNP	B-PER
+Avrila	NNP	I-PER
+Siani	NNP	I-PER
+,	,	
+menuai	VBT	O
+kontroversi	NN	O
+.	.	
+		
+		
+Pasalnya	NNP	O
+,	,	
+pencoretan	NN	O
+itu	DT	O
+disebut	VBT	O
+pihak	NN	O
+keluarga	NN	O
+Shalfa	NNP	I-PER
+karena	CC	O
+sang	RP	O
+atlet	NN	I-PER
+sudah	RB	O
+tidak	NEG	O
+perawan	NN	O
+.	.	
+		
+		
+Tak	NEG	O
+pelak	NN	O
+,	,	
+mencuat	VBT	O
+pula	RB	O
+anggapan	NN	O
+bahwa	SC	O
+masalah	NN	O
+keperawanan	NN	O
+jadi	JJ	O
+salah	JJ	O
+satu	CDP	O
+penentu	NN	O
+untuk	IN	O
+seleksi	NN	O
+atlet	NN	I-PER
+senam	NN	O
+.	.	
+		
+		
+Ita	NN	B-PER
+Yualita	NNP	I-PER
+pada	IN	O
+konferensi	NN	O
+pers	NN	O
+di	IN	O
+Kantor	NN	I-LOC
+Kemenpora	NN	I-ORG
+,	,	
+Jumat	NN	O
+(	OP	O
+28/11)	11)	O
+,	,	
+langsung	JJ	O
+membantah	VBT	O
+anggapan	NN	O
+tersebut	DT	O
+.	.	
+		
+		
+ 		
+Kami	PRP	B-PER
+pilih	NN	O
+atlet	NN	O
+berdasarkan	VBT	O
+prestasi	NN	O
+dan	CC	O
+kami	PRP	O
+sampaikan	VBT	O
+ke	IN	O
+CdM	NNP	I-ORG
+[	OP	
+Chef	NNP	B-ORG
+de	NNP	I-ORG
+Mission	NNP	I-ORG
+]	CP	
+dan	CC	O
+Menpora	NN	I-ORG
+soal	NN	O
+perubahan	NN	O
+nama	NN	O
+[	OP	
+atlet	NN	O
+senam	NN	O
+yang	SC	O
+berangkat	VBI	O
+ke	IN	O
+SEA	NN	I-ORG
+Games],	NN	I-ORG
+ 		
+ujar	VBT	O
+Ita	NN	I-PER
+.	.	
+		
+		
+ 		
+Saya	PRP	B-PER
+tanya	VBT	O
+ke	IN	O
+pelatih	NN	I-PER
+,	,	
+apakah	WP	O
+ada	VBI	O
+persyaratan	NN	O
+keperawanan	NN	O
+di	IN	O
+senam	NN	O
+?	.	
+		
+		
+Kami	PRP	O
+yakin	JJ	O
+itu	DT	O
+tidak	NEG	O
+ada	VBI	O
+karena	CC	O
+ada	VBI	O
+juga	RB	O
+atlet	NN	O
+yang	SC	O
+sudah	MD	O
+menikah	VBT	O
+.	.	
+		
+		
+Di	IN	O
+ajang	NN	O
+internasional	JJ	O
+,	,	
+di	IN	O
+Olimpiade	NNP	I-ORG
+,	,	
+ada	VBI	O
+Oksana	NNP	I-PER
+[	OP	
+Chusovitina	NNP	B-PER
+atlet	NN	I-ORG
+senam	NN	I-ORG
+]	CP	
+43	CDP	
+tahun	NN	O
+sudah	MD	O
+punya	VBT	O
+anak	NN	I-PER
+.	.	
+Jadi	JJ	O
+tak	NEG	O
+ada	VBI	O
+masalah,	NN	O
+ 		
+kata	VBT	O
+Ita	NN	I-PER
+.	.	
+		
+		
+Lebih	RB	O
+lanjut	VBT	O
+,	,	
+Ita	NNP	B-PER
+masih	RB	O
+terus	RB	O
+mencari	VBT	O
+tahu	VBI	O
+yang	SC	O
+sebenarnya	RB	O
+terjadi	VBI	O
+terkait	VBT	O
+pernyataan	NN	O
+keluarga	NN	O
+yang	SC	O
+menyebut	VBT	O
+Shalfa	NNP	I-PER
+dicoret	VBT	O
+karena	CC	O
+dinilai	VBT	O
+sudah	RB	O
+tak	NEG	O
+perawan	NN	O
+oleh	IN	O
+pelatih	NN	I-PER
+.	.	
+		
+		
+ 		
+Apa	WP	O
+betul	NN	O
+tes	NN	O
+dilakukan?	VBT	O
+”	.	
+		
+		
+Kami	PRP	O
+belum	NEG	O
+dapat	MD	O
+jawaban	NN	O
+.	.	
+		
+		
+Saya	PRP	B-PER
+mau	CC	O
+kronologis	JJ	O
+tertulis	VBI	O
+.	.	
+		
+		
+Saya	PRP	B-PER
+tidak	NEG	O
+mengerti	VBT	O
+informasi	NN	O
+itu	DT	O
+.	.	
+		
+		
+Saya	PRP	B-BER
+sampaikan	VBT	O
+ke	IN	O
+Menpora	NN	I-ORG
+dan	CC	O
+hasil	NN	O
+kejurnas	NN	O
+itu	DT	O
+jd	NN	O
+pertimbangan,	NN	O
+ 		
+kata	VBT	O
+Ita	NN	I-PER
+.	.	

@@ -1,0 +1,1740 @@
+SEA	NN	B-ORG
+GAMES	NN	I-ORG
+2019	CDP	I-ORG
+merupakan	VBT	O
+sebuah	NN	O
+Pesta	NN	B-ORG
+Olahraga	NN	I-ORG
+Asia	NNP	I-ORG
+Tenggara	NN	I-ORG
+2019	NN	I-ORG
+yang	SC	O
+akan	MD	O
+diselenggarakan	VBT	O
+di	IN	O
+Manila	NNP	B-LOC
+,	,	
+ibu	NNP	O
+kota	NN	O
+dari	IN	O
+negara	NN	O
+Filipina	NN	B-LOC
+.	.	
+		
+		
+Pesta	NN	B-ORG
+Olahraga	NN	I-ORG
+Asia	NNP	I-ORG
+Tenggara	NN	I-ORG
+kali	NN	O
+ini	DT	O
+akan	MD	O
+menjadi	VBT	O
+Pesta	NN	B-ORG
+Olahraga	NN	I-ORG
+Asia	NNP	I-ORG
+Tenggara	NN	I-ORG
+yang	SC	O
+ke	IN	O
+-	-	
+30	CDP	O
+(	OP	O
+tiga	CDP	O
+puluh)	CDP	O
+.	.	
+		
+		
+Pesta	NN	B-ORG
+Olahraga	NN	I-ORG
+Asia	NNP	I-ORG
+Tenggara	NN	I-ORG
+ini	DT	O
+akan	MD	O
+diselenggarakan	VBT	O
+di	IN	O
+Quirino	NNP	B-LOC
+Grandstand	NNP	I-LOC
+,	,	
+Rizal	NNP	B-PER
+Park	NNP	I-PER
+.	.	
+		
+		
+Ini	DT	O
+akan	MD	O
+menjadi	VBT	O
+kali	NN	O
+ke	IN	O
+-	-	
+empat	CDP	O
+dalam	IN	O
+sejarah	NN	O
+Pesta	NN	B-ORG
+Olahraga	NN	I-ORG
+Asia	NNP	I-ORG
+Tenggara	NN	I-ORG
+.	.	
+		
+		
+Filipina	NNP	B-LOC
+menggelar	VBT	O
+Pesta	NN	O
+Olahraga	NN	O
+Negara	NN	O
+-	-	O
+Negara	NN	O
+Asia	NNP	O
+Tenggara	NN	O
+dan	CC	O
+kali	NN	O
+kedua	CDO	O
+setelah	SC	O
+14	CDP	O
+tahun	NN	O
+.	.	
+		
+		
+Filipina	NNP	B-LOC
+telah	MD	O
+menggelar	VBT	O
+Pesta	NN	B-ORG
+Olahraga	NN	I-ORG
+Asia	NNP	I-ORG
+Tenggara	NN	I-ORG
+,	,	
+antara	IN	O
+lain	JJ	O
+pada	IN	O
+tahun	NN	O
+1981	CDP	O
+,	,	
+1991	CDP	O
+,	,	
+dan	CC	O
+2005	CDP	O
+.	.	
+		
+		
+Pesta	NN	O
+Olahraga	NN	O
+Negara	NN	O
+-	-	O
+Negara	NN	O
+Asia	NNP	O
+Tenggara	NN	O
+1981	CDP	O
+dan	CC	O
+1991	CDP	O
+diselenggarakan	VBT	O
+di	IN	O
+Manila	NNP	B-LOC
+sedangkan	CC	O
+pada	IN	O
+tahun	NN	O
+2005	CDP	O
+.	.	
+		
+		
+Beberapa	CDI	O
+pertandingan	NN	O
+diselenggarakan	VBT	O
+di	IN	O
+Metro	NNP	B-LOC
+Manila	NNP	I-LOC
+,	,	
+Los	NNP	B-LOC
+Baños	NNP	I-LOC
+dan	CC	O
+Calamba	NNP	B-LOC
+City	NNP	I-LOC
+di	IN	
+Laguna	NNP	B-LOC
+,	,	
+Cebu	NNP	B-LOC
+,	,	
+Bacolod	NNP	B-LOC
+,	,	
+Pampanga	NNP	B-LOC
+dan	CC	O
+Subic	NNP	B-LOC
+,	,	
+Zambales	NNP	B-LOC
+.	.	
+		
+		
+Pesta	NN	O
+Olahraga	NN	O
+Negara	NN	O
+-	-	
+Negara	NN	O
+Asia	NNP	O
+Tenggara	NN	O
+kali	NN	O
+ini	DT	O
+juga	RB	O
+akan	MD	O
+memperingati	VBT	O
+60	CDP	O
+tahun	NN	O
+penyelenggaraan	NN	O
+SEA	NN	B-ORG
+Games	NN	I-ORG
+sejak	IN	O
+terbentuknya	VBI	O
+di	IN	O
+Thailand	NNP	B-LOC
+pada	IN	O
+tahun	NN	O
+1959	CDP	O
+.	.	
+		
+		
+Pesta	NN	O
+Olahraga	NN	O
+Negara	NN	O
+-	-	
+Negara	NN	O
+Asia	NNP	B-LOC
+Tenggara	NN	I-LOC
+juga	RB	O
+akan	MD	O
+menjadi	VBT	O
+peringatan	NN	O
+42	CDP	O
+tahun	NN	O
+.	.	
+		
+		
+Pesta	NN	O
+Olahraga	NN	O
+Negara	NN	O
+-	-	
+Negara	NN	O
+Asia	NNP	B-LOC
+Tenggara	NN	I-LOC
+atau	CC	O
+Southeast	NNP	B-LOC
+Asian	NNP	I-LOC
+Games	NNP	O
+(	OP	O
+SEA	NNP	O
+Games)	NNP	O
+.	.	
+		
+		
+Dalam	IN	O
+perhelatan	NN	O
+ini	DT	O
+dihadiri	VBT	O
+oleh	IN	O
+beberapa	CDI	O
+negara	NN	O
+sekitar	CDI	O
+Asia	NNP	B-LOC
+Tenggara	NN	I-LOC
+yang	SC	O
+masing	NN	O
+-	-	
+masing	NN	O
+negaranya	NN	O
+menyalurkan	VBT	O
+ratusan	CDC	O
+atau	CC	O
+ribuan	CDC	O
+peserta	NN	O
+yang	SC	O
+siap	JJ	O
+untuk	IN	O
+ditandingkan	VBT	O
+.	.	
+		
+		
+Negara	NN	O
+yang	SC	O
+menyalurkan	VBT	O
+peserta	NN	O
+terbanyak	JJ	O
+dipegang	VBT	O
+oleh	IN	O
+tuan	NN	O
+rumah	NN	O
+yaitu	SC	O
+Filiphina	NN	B-LOC
+yaitu	SC	O
+sebanyak	CDI	O
+1868	CDP	O
+,	,	
+dan	CC	O
+negara	NN	O
+yang	SC	O
+paling	RB	O
+sedikit	JJ	O
+yaitu	SC	O
+dari	IN	O
+negara	NN	O
+Timor	NNP	B-LOC
+Leste	NNP	I-LOC
+sebanyak	CDI	O
+221	CDP	O
+peserta	NN	O
+.	.	
+		
+		
+Untuk	IN	O
+Indonesia	NNP	B-LOC
+sendiri	JJ	O
+,	,	
+mengikuti	VBT	O
+45	CDP	O
+cabang	NN	O
+olahraga	NN	O
+.	.	
+		
+		
+Berapa	WP	O
+harga	NN	O
+tiket	NN	O
+SEA	NN	B-ORG
+GAMES	NN	I-ORG
+2019	JJ	I-ORG
+di	IN	O
+Filiphina	NNP	B-LOC
+??	.	
+		
+		
+Dari	IN	O
+hasil	NN	O
+penelusuran	NN	O
+,	,	
+harga	NN	O
+tiket	NN	O
+SEA	NN	B-ORG
+Games	NN	I-ORG
+2019	RB	I-ORG
+dijual	VBT	O
+kisaran	NN	O
+harga	NN	O
+50	CDP	O
+peso	NN	O
+(	OP	O
+Rp14	CDP	O
+ribu	CDP	O
+)	CP	O
+hingga	CC	O
+800	NN	O
+peso	NN	O
+(	OP	O
+Rp222	CDP	O
+ribu)	CDP	O
+.	.	
+		
+		
+Fokus	NN	O
+pada	IN	O
+cabor	NN	O
+sepak	NN	B-ORG
+bola	NN	I-ORG
+pria	NN	O
+,	,	
+harga	NN	O
+yang	SC	O
+ditawarkan	VBT	O
+juga	RB	O
+tidak	NEG	O
+terlalu	RB	O
+mahal	NN	O
+.	.	
+		
+		
+Anda	PRP	O
+hanya	RB	O
+perlu	MD	O
+mengeluarkan	VBT	O
+dana	NN	O
+sekitar	CDI	O
+50	CDP	O
+peso	NN	O
+(	OP	O
+Rp14	CDP	O
+ribu	CDP	O
+)	CP	O
+hingga	CC	O
+750	NN	O
+peso	NN	O
+(	OP	O
+Rp208	CDP	O
+ribu	CDP	O
+)	CP	O
+saja	RB	O
+.	.	
+		
+		
+Harga	NN	O
+tersebut	DT	O
+bergantung	VBI	O
+pada	IN	O
+tempat	NN	O
+duduk	VBI	O
+yang	SC	O
+Anda	PRP	O
+pilih	NN	O
+dan	CC	O
+laga	NN	O
+yang	SC	O
+ingin	VBT	O
+ditonton	VBT	O
+.	.	
+		
+		
+Pertandingan	NN	O
+di	IN	O
+babak	NN	O
+putaran	NN	O
+tentu	RB	O
+akan	MD	O
+lebih	RB	O
+murah	JJ	O
+ketimbang	IN	O
+laga	NN	O
+puncak	NN	O
+.	.	
+		
+		
+Informasi	NN	O
+tentang	IN	O
+harga	NN	O
+tiket	NN	O
+SEA	NN	B-ORG
+Games	NN	I-ORG
+2019	CDP	I-ORG
+bisa	MD	O
+dilihat	VBT	O
+melalui	VBT	O
+website	NN	O
+resmi	JJ	O
+Tiket	JJ	O
+SEA	NN	B-ORG
+Games	NN	I-ORG
+.	.	
+		
+		
+SEA	NN	B-ORG
+Games	NN	I-ORG
+Filipina	NN	B-LOC
+2019	CDP	O
+akan	MD	O
+mempertandingkan	VBT	O
+56	CDP	O
+cabang	NN	O
+olahraga	NN	O
+dengan	IN	O
+560	CDP	O
+nomor	NN	O
+.	.	
+		
+		
+Tahun	NN	O
+ini	DT	O
+,	,	
+untuk	IN	O
+kali	NN	O
+pertama	CDO	O
+juga	RB	O
+multieven	NN	O
+olahraga	NN	O
+se	NN	O
+Asia	NNP	B-LOC
+Tenggara	NN	I-LOC
+tersebut	DT	O
+mempertandingkan	VBT	O
+cabang	NN	O
+baru	JJ	O
+yang	SC	O
+akrab	JJ	O
+dengan	IN	O
+dunia	NN	O
+milenials	NN	O
+,	,	
+yakni	VBT	O
+esports	NN	B-ORG
+.	.	
+		
+		
+Indonesia	NNP	B-LOC
+sendiri	RB	O
+mengirimkan	VBT	O
+841	CDP	O
+atlet	NN	O
+untuk	IN	O
+berlaga	VBI	O
+di	IN	O
+SEA	NN	B-ORG
+Games	NN	I-ORG
+tahun	NN	O
+ini	DT	O
+.	.	
+		
+		
+Setelah	SC	O
+direvisi	VBT	O
+dari	IN	O
+54	CDP	O
+medali	NN	O
+emas	NN	O
+,	,	
+Indonesia	NNP	B-LOC
+tahun	NN	O
+ini	DT	O
+menargetkan	VBT	O
+sebanyak	CDI	O
+45	CDP	O
+keping	NN	O
+emas	NN	O
+.	.	
+		
+		
+Berdasarkan	VBT	O
+catatan	NN	O
+Kementerian	NN	O
+Pemuda	NN	O
+dan	CC	O
+Olahraga	NN	O
+(	OP	O
+Kemenpora	NNP	B-ORG
+)	CP	O
+seperti	IN	O
+dilansir	VBT	O
+Antaranews.com	NNP	B-ORG
+,	,	
+setidaknya	RB	O
+27	CDP	O
+cabang	NN	O
+olahraga	NN	O
+diharapkan	VBT	O
+jadi	JJ	O
+tambang	NN	O
+emas	NN	O
+di	IN	O
+SEA	NN	B-ORG
+Games	NN	I-ORG
+2019	CDP	I-ORG
+,	,	
+di	IN	O
+antaranya	NNG	O
+,	,	
+cabang	NN	O
+olahraga	NN	O
+atletik	NN	O
+,	,	
+renang	NN	B-ORG
+,	,	
+sepeda	NN	B-ORG
+,	,	
+selancar	NN	B-ORG
+,	,	
+ice	NN	B-ORG
+skeating	NN	I-ORG
+,	,	
+triathlon	NNP	B-ORG
+,	,	
+dan	CC	O
+bulu	NN	B-ORG
+tangkis	VBT	I-ORG
+.	.	
+		
+		
+Ada	VBI	O
+juga	RB	O
+cabang	NN	O
+olahraga	NN	O
+lain	JJ	O
+seperti	IN	O
+boling	NN	B-ORG
+,	,	
+panahan	NN	B-ORG
+,	,	
+tinju	NN	B-ORG
+,	,	
+kano	NN	B-ORG
+,	,	
+senam	NN	B-ORG
+,	,	
+judo	NNP	B-ORG
+,	,	
+pencak	NN	B-ORG
+silat	NN	I-ORG
+,	,	
+esports	NN	B-ORG
+,	,	
+angkat	NN	B-ORG
+besi	NNP	I-ORG
+,	,	
+soft	NN	B-ORG
+tenis	NN	I-ORG
+,	,	
+hingga	CC	O
+voli	NN	B-ORG
+pantai	NN	I-ORG
+.	.	
+		
+		
+Penyelenggara	NN	B-ORG
+SEA	NN	I-ORG
+Games	NN	I-ORG
+2019	CDP	O
+akan	MD	O
+menggratiskan	VBT	O
+tiket	NN	O
+untuk	IN	O
+hampir	RB	O
+semua	CDI	O
+cabang	NN	O
+olahraga	NN	O
+.	.	
+		
+		
+Hal	NN	O
+ini	DT	O
+dilakukan	VBT	O
+atas	IN	O
+perintah	NN	O
+Presiden	NN	O
+Filipina	NNP	B-LOC
+,	,	
+Rodrigo	NNP	I-PER
+Duterte	NNP	I-PER
+.	.	
+		
+		
+Hal	NN	O
+tersebut	DT	O
+diumumkan	VBT	O
+oleh	IN	O
+Kepala	NN	O
+Komite	NN	O
+Penyelenggara	NN	O
+SEA	NN	B-ORG
+Games	NN	I-ORG
+2019	CDP	O
+(	OP	O
+Phisgoc)	NNP	O
+,	,	
+Alan	NNP	I-PER
+Peter	NNP	I-PER
+Cayetano	NNP	I-PER
+,	,	
+Jumat	NN	O
+(	OP	O
+29/11/2019	11	O
+)	CP	O
+waktu	NN	O
+setempat	NN	O
+.	.	
+		
+		
+Kecuali	IN	O
+basket	NN	O
+,	,	
+sepakbola	NN	B-ORG
+dan	CC	O
+voli	NN	I-ORG
+,	,	
+semua	CDI	O
+cabang	NN	O
+olahraga	NN	O
+gratis	NN	O
+disaksikan	VBT	O
+oleh	IN	O
+publik	NN	O
+Filipina	NN	B-LOC
+.	.	
+		
+		
+Duterte	NNP	B-PER
+juga	RB	O
+memerintahkan	VBT	O
+agar	IN	OO
+menyediakan	VBT	O
+10	CDP	O
+tiket	NN	O
+gratis	NN	O
+untuk	IN	O
+upacara	NN	O
+penutupan	NN	O
+SEA	NN	I-ORG
+Games	NN	I-ORG
+2019	CDP	O
+.	.	
+		
+		
+Closing	NN	B-ORG
+Cermony	NN	I-ORG
+sendiri	JJ	O
+akan	MD	O
+dihelat	VBT	O
+di	IN	O
+Stadium	NNP	I-LOC
+New	NNP	I-LOC
+Clark	NNP	I-LOC
+City	NNP	I-LOC
+di	IN	O
+Capas	NNP	I-LOC
+,	,	
+Tarlac	NNP	I-LOC
+pada	IN	O
+11	CDP	O
+Desember	NN	O
+2019	CDP	O
+mendatang	NN	O
+.	.	
+		
+		
+ALASAN	NN	O
+PENURUNAN	NN	O
+TARGET	NN	O
+PEROLEHAN	NN	O
+EMAS	NN	O
+DI	IN	O
+SEA	NN	B-ORG
+GAMES	NN	I-ORG
+2019	CDP	O
+		
+		
+Kepala	NN	B-PER
+Kontingen	NN	I-ORG
+Indonesia	NNP	I-LOC
+untuk	IN	O
+SEA	NN	I-ORG
+Games	NN	I-ORG
+2019	CDP	O
+,	,	
+Harry	NNP	B-PER
+Warganegara	NNP	I-PER
+,	,	
+menjelaskan	VBI	O
+alasan	NN	O
+mengapa	WP	O
+target	NN	O
+perolehan	NN	O
+medali	NN	O
+diturunkan	VBT	O
+menjadi	VBT	O
+45	CDP	O
+medali	NN	O
+emas	NN	O
+.	.	
+		
+		
+Padahal	NNP	O
+,	,	
+sebelumnya	SC	O
+pemerintah	NN	B-ORG
+Indonesia	NNP	I-LOC
+mematok	VBT	O
+target	NN	O
+bisa	MD	O
+meraih	VBT	O
+lebih	RB	O
+dari	IN	O
+50	CDP	O
+medali	NN	O
+emas	NN	O
+.	.	
+		
+		
+Apa	WP	O
+alasannya	NN	O
+?	.	
+Kita	PRP	B-PER
+prediksi	NN	O
+sekian	RB	O
+tapi	CC	O
+ada	VBI	O
+margin	NN	O
+error	NN	O
+20	CDP	O
+persen	NN	O
+makanya	NN	O
+jadi	JJ	O
+45	CDP	O
+emas	NN	O
+.	.	
+		
+		
+Seperti	IN	O
+misalnya	NNG	O
+tiba	VBI	O
+-	-	
+tiba	VBI	O
+atlet	NN	B-ORG
+sakit	JJ	O
+perut	NN	O
+.	.	
+Kita	PRP	B-PER
+juga	RB	O
+tidak	NEG	O
+bisa	MD	O
+prediksi	NN	O
+angin	NN	O
+.	.	
+		
+		
+Hal	NN	O
+-	-	
+hal	NN	O
+teknis	NN	O
+.	.	
+		
+		
+Contohnya	NNG	O
+,	,	
+cabang	NN	O
+olahraga	NN	O
+basket	NN	B-ORG
+.	.	
+Pada	IN	O
+SEA	NN	B-ORG
+Games	NN	I-ORG
+2017	CDP	O
+,	,	
+Indonesia	NNP	B-LOC
+meraih	VBT	O
+perak	NN	O
+.	.	
+		
+		
+Harapannya	NNP	O
+bisa	MD	O
+naik	VBI	O
+jadi	JJ	O
+emas	NN	O
+.	.	
+		
+		
+Tapi	CC	O
+tenyata	NN	O
+aturan	NN	O
+diubah	VBT	O
+,	,	
+mereka	PRP	B-PER
+membebaskan	VBT	O
+pemain	NN	I-PER
+naturalisasi	NN	O
+.	.	
+		
+		
+Kalau	SC	O
+aturan	NN	O
+Federasi	NN	B-ORG
+Bola	NN	I-ORG
+Basket	NN	I-ORG
+Dunia	NN	I-ORG
+(	OP	O
+FIBA	NNP	I-ORG
+)	CP	O
+kan	RP	O
+satu	CDP	O
+pemain	NN	I-PER
+naturalisasi	NN	O
+.	.	
+		
+		
+Panitia	NN	B-ORG
+Pelaksana	NN	I-ORG
+SEA	NN	I-ORG
+Games	NN	I-ORG
+2019	NN	O
+Filipina	NNP	I-LOC
+(	OP	O
+PHISGOC	NNP	I-LOC
+)	CP	O
+buat	NN	O
+aturan	NN	O
+sendiri	JJ	O
+bisa	MD	O
+pakai	NN	O
+sebanyak	CDI	O
+-	-	
+banyaknya	NN	O
+pemain	NN	I-PER
+naturalisasi	NN	O
+.	.	
+		
+		
+Bisa	MD	O
+jadi	JJ	O
+seluruh	CDI	O
+pemain	NN	B-PER
+tuan	NN	I-PER
+rumah	NN	I-LOC
+naturalisasi	NN	O
+.	.	
+		
+		
+Apalagi	DT	O
+usaha	NN	O
+lain	JJ	O
+tuan	NN	B-PER
+rumah	NN	I-LOC
+meraih	VBT	O
+medali	NN	O
+sebanyak	CDI	O
+-	-	
+banyaknya	JJ	O
+.	.	
+		
+		
+Targetnya	NNP	O
+berharap	VBT	O
+lebih	RB	O
+bagus	IN	O
+yakni	VBT	O
+empat	CDP	O
+besar	JJ	O
+.	.	
+		
+		
+Ada	VBI	O
+perbaikan	NN	O
+peringkat	NN	O
+.	.	
+		
+		
+Kita	PRP	B-PER
+berharap	VBT	O
+target	NN	O
+medali	NN	O
+antara	IN	O
+45	CDP	O
+-	-	
+50	CDP	O
+emas	NN	O
+itu	DT	O
+bisa	MD	O
+memperbaiki	VBT	O
+peringkat	NN	O
+.	.	
+		
+		
+Apa	WP	O
+cabang	NN	O
+olahraga	NN	O
+andalan	NN	O
+untuk	IN	O
+meraih	VBT	O
+medali	NN	O
+?	.	O
+		
+		
+Ada	VBI	O
+27	CDP	O
+cabang	NN	O
+olahraga	NN	O
+yang	SC	O
+menjadi	VBT	O
+andalan	NN	O
+untuk	IN	O
+meraih	VBT	O
+medali	NN	O
+,	,	
+yaitu	SC	O
+mulai	VBI	O
+dari	IN	O
+atletik	NN	B-ORG
+,	,	
+renang	NN	B-ORG
+,	,	
+sepeda	NN	B-ORG
+,	,	
+selancar	NN	B-ORG
+,	,	
+ice	NN	B-ORG
+skeating	NN	I-ORG
+,	,	
+triathlon	NNP	B-ORG
+,	,	
+dan	CC	O
+badminton	NN	B-ORG
+.	.	
+		
+		
+Ada	VBI	O
+bowling	NN	B-ORG
+,	,	
+panahan	NN	B-ORG
+,	,	
+tinju	NN	B-ORG
+,	,	
+kano	NN	B-ORG
+,	,	
+senam	NN	B-ORG
+,	,	
+judo	NNP	B-ORG
+,	,	
+pencak	NN	B-ORG
+silat	NN	I-ORG
+,	,	
+esports	NN	B-ORG
+,	,	
+angkat	NN	B-ORG
+besi	NNP	I-ORG
+,	,	
+soft	NN	B-ORG
+tenis	NN	I-ORG
+,	,	
+dan	CC	O
+voli	NN	B-ORG
+pantai	NN	I-ORG
+.	.	
+Ada	VBI	O
+beberapa	CDI	O
+lagi	RB	O
+yang	SC	O
+berpeluang	VBI	O
+.	.	
+		
+		
+Penghargaan	NN	O
+untuk	IN	O
+yang	SC	O
+memenuhi	VBT	O
+target	NN	O
+,	,	
+yaitu	SC	O
+bonus	NN	O
+pasti	JJ	O
+ada	VBI	O
+.	.	
+		
+		
+Sudah	MD	O
+ada	VBI	O
+nominal	JJ	O
+emas	NN	O
+,	,	
+perak	NN	O
+,	,	
+perunggu	NN	O
+itu	DT	O
+ada	VBI	O
+.	.	
+		
+		
+Tetapi	CC	O
+juga	RB	O
+adanya	NNG	O
+anksi	JJ	O
+bagi	IN	O
+yang	SC	O
+tidak	NEG	O
+memenuhi	VBT	O
+target	NN	O
+yaitu	SC	O
+,	,	
+lebih	RB	O
+ke	IN	O
+pembinaan	NN	O
+cabang	NN	O
+olahraga	NN	O
+.	.	
+		
+		
+Misalnya	NNG	O
+pelatnasnya	NN	B-ORG
+,	,	
+pemerintah	NN	B-ORG
+mengatasi	VBT	O
+anggaran	NN	O
+apa	WP	O
+yang	SC	O
+tekah	NN	O
+diperoleh	VBT	O
+.	.	
+		
+		
+Misalnya	NNG	O
+,	,	
+kalau	SC	O
+sudah	MD	O
+mematok	VBT	O
+tapi	CC	O
+tidak	NEG	O
+terpenuhi	VBI	O
+bisa	MD	O
+jadi	JJ	O
+ada	VBI	O
+konsekuensi	NN	O
+penurunan	NN	O
+dana	NN	O
+pelatnas	NN	B-ORG
+.	.	
+		
+		
+Kita	PRP	B-PER
+serahin	NN	O
+ke	IN	O
+Kemenpora	NN	I-ORG
+,	,	
+bisa	MD	O
+jadi	JJ	O
+malah	NN	O
+ditambah	VBT	O
+anggarannya	NN	O
+.	.	
+		
+		
+Perburuan	NN	O
+medali	NN	O
+emas	NN	O
+yang	SC	O
+dilakukan	VBT	O
+para	DT	O
+atlet	NN	B-ORG
+Indonesia	NNP	I-LOC
+pada	IN	O
+SEA	NN	I-ORG
+Games	NN	I-ORG
+2019	JJ	O
+di	IN	O
+Filipina	NN	I-LOC
+berpeluang	JJ	O
+membuahkan	VBT	O
+hasil	NN	O
+pertama	CDO	O
+dalam	IN	O
+waktu	NN	O
+dekat	JJ	O
+.	.	
+		
+		
+Kepastian	NN	O
+itu	DT	O
+didapat	VBT	O
+menyusul	VBT	O
+kemenangan	NN	O
+yang	SC	O
+dibukukan	VBT	O
+timnas	NN	B-ORG
+polo	NN	I-ORG
+air	NN	I-ORG
+Indonesia	NNP	I-LOC
+atas	IN	O
+Singapura	NNP	I-LOC
+pada	IN	O
+Kamis	NN	O
+.	.	
+		
+		
+Kemenangan	NN	O
+atas	IN	O
+Singapura	NNP	B-LOC
+membuat	VBT	O
+Indonesia	NNP	I-LOC
+semakin	RB	O
+kukuh	RB	O
+dipuncak	VBT	O
+klasemen	NN	O
+nomor	NN	O
+polo	NN	I-ORG
+air	NN	I-ORG
+putra	NN	I-PER
+SEA	NN	I-ORG
+Games	NN	I-ORG
+2019	CDP	O
+.	.	
+		
+		
+Indonesia	NNP	B-LOC
+mengumpulkan	VBT	O
+lima	CDP	O
+poin	NN	O
+hasil	NN	O
+dari	IN	O
+dua	CDP	O
+kemenangan	NN	O
+(	OP	O
+bernilai	VBI	O
+dua	CDP	O
+poin	NN	O
+)	CP	O
+dan	CC	O
+satu	CDP	O
+hasil	NN	O
+imbang	NN	O
+(	OP	O
+satu	CDP	O
+poin)	NN	O
+.	.	
+		
+		
+Ridjkie	NNP	B-PER
+Mulia	NNP	I-PER
+dan	CC	O
+kawan	NN	I-PER
+-	-	
+kawan	NN	B-PER
+,	,	
+unggul	NN	O
+sejauh	NN	O
+dua	CDP	O
+poin	NN	O
+dari	IN	O
+pesaing	NN	O
+terdekat	JJ	O
+,	,	
+Filipina	NNP	B-LOC
+,	,	
+yang	SC	O
+baru	JJ	O
+melakoni	VBT	O
+dua	CDP	O
+pertandingan	NN	O
+sejauh	NN	O
+ini	DT	O
+.	.	
+		
+		
+Dua	CDP	O
+pertandingan	NN	O
+yang	SC	O
+berlangsung	VBI	O
+hari	NN	O
+ini	DT	O
+bisa	MD	O
+menjadi	VBT	O
+penentuan	NN	O
+soal	NN	O
+negara	NN	B-LOC
+mana	NN	O
+yang	SC	O
+akan	MD	O
+meraih	VBT	O
+medali	NN	O
+emas	NN	O
+dari	IN	O
+nomor	NN	O
+polo	NN	I-ORG
+air	NN	I-ORG
+putra	NN	I-PER
+.	.	
+		
+		
+Pemerintah	NN	B-ORG
+Filipina	NN	I-LOC
+banyak	JJ	O
+menuai	VBT	O
+kritik	NN	O
+setelah	SC	O
+dianggap	VBT	O
+gagal	JJ	O
+menjadi	VBT	O
+tuan	NN	I-PER
+rumah	NN	I-LOC
+dari	IN	O
+penyelenggaraan	NN	I-ORG
+pesta	NN	I-ORG
+olahraga	NN	I-ORG
+terbesar	JJ	O
+di	IN	O
+Asia	NNP	I-LOC
+Tenggara	NN	I-LOC
+,	,	
+Southeast	NNP	B-LOC
+Asian	NNP	I-LOC
+Games	NNP	I-LOC
+(	OP	O
+SEA	NN	B-ORG
+Games	NNP	I-ORG
+)	CP	O
+2019	CDP	O
+di	IN	O
+Manila	NNP	B-LOC
+.	.	
+		
+		
+Seperti	IN	O
+dilaporkan	VBT	O
+beberapa	CDI	O
+media	NN	O
+,	,	
+pelayanan	NN	O
+yang	SC	O
+diberikan	VBT	O
+negara	NN	B-LOC
+itu	DT	O
+untuk	IN	O
+para	DT	O
+atlet	NN	I-ORG
+dan	CC	O
+tamu	NN	I-ORG
+Sea	NN	I-ORG
+Games	NN	I-ORG
+tersebut	DT	O
+tidak	NEG	O
+memadai	VBI	O
+.	.	
+		
+		
+Financial	FW	O
+Times	FW	O
+melaporkan	VBT	O
+pada	IN	O
+Kamis	NN	O
+(	OP	O
+28/11/2019	11	O
+)	CP	O
+bahwa	SC	O
+para	DT	O
+atlet	NN	B-ORG
+yang	SC	O
+seharusnya	RB	O
+berlaga	VBI	I-ORG
+di	IN	O
+ajang	NN	O
+bergengsi	VBI	O
+tersebut	DT	O
+tidak	NEG	O
+mendapat	VBT	O
+pelayanan	NN	O
+yang	SC	O
+layak	NN	O
+.	.	
+		
+		
+Mereka	PRP	O
+tidak	NEG	O
+mendapatkan	VBT	O
+hotel	NN	B-LOC
+untuk	IN	O
+menginap	VBT	O
+,	,	
+sehingga	SC	O
+terpaksa	VBI	O
+harus	MD	O
+tidur	VBI	O
+di	IN	O
+lantai	NN	O
+sebuah	NN	O
+gedung	NN	B-LOC
+beramai	WP	O
+-	-	
+ramai	JJ	O
+.	.	
+		
+		
+Beberapa	CDI	O
+venue	NN	B-LOC
+termasuk	VBT	O
+Stadion	NNP	B-LOC
+Rizal	NNP	B-PER
+Memorial	NNP	I-PER
+Manila	NNP	I-PER
+yang	SC	O
+seharusnya	RB	O
+dijadikan	VBT	O
+tempat	NN	O
+pertandingan	NN	O
+sepak	NN	B-ORG
+bola	NN	I-ORG
+putra	NN	I-ORG
+juga	RB	O
+dikabarkan	VBT	O
+belum	NEG	O
+selesai	NN	O
+direnovasi	VBT	O
+pada	IN	O
+saat	NN	O
+acara	NN	O
+pembukaan	NN	O
+semakin	RB	O
+dekat	JJ	O
+.	.	
+		
+		
+Acara	NN	O
+pembukaan	NN	O
+akan	MD	O
+digelar	VBT	O
+pada	IN	O
+Sabtu	NN	O
+30	CDP	O
+November	NN	O
+besok	NNP	O
+.	.	
+		
+		
+Seorang	NN	O
+atlet	NN	B-ORG
+senam	NN	I-ORG
+yang	SC	O
+hendak	MD	O
+dikirim	VBT	O
+ke	IN	O
+SEA	NN	B-ORG
+Games	NN	I-ORG
+2019	CDP	I-ORG
+Filipina	NN	I-ORG
+dipulangkan	NN	O
+.	.	
+Pemulangan	NNP	O
+dilakukan	VBT	O
+karena	CC	O
+atlet	NN	I-ORG
+tersebut	DT	O
+diisukan	VBT	O
+tidak	NEG	O
+perawan	NN	O
+.	.	
+		
+		
+Atlet	NN	B-ORG
+itu	DT	O
+adalah	VBT	O
+Shalfa	NNP	B-PER
+Avrila	NNP	I-PER
+Siani	NNP	I-PER
+(	OP	O
+17)	CDP	O
+,	,	
+atlet	NN	B-ORG
+senam	NN	I-ORG
+artistik	NN	O
+asal	NN	O
+Kota	NN	O
+Kediri	NN	O
+.	.	
+		
+		
+Shalfa	NNP	B-PER
+saat	NN	O
+itu	DT	O
+sedang	RB	O
+menjalani	VBT	O
+pemusatan	NN	O
+pelatihan	NN	O
+senam	NN	O
+untuk	IN	O
+persiapan	NN	O
+SEA	NN	B-ORG
+Games	NN	I-ORG
+2019	JJ	I-ORG
+di	IN	O
+Gresik	FW	O
+.	.	
+		
+		
+Namun	CC	O
+,	,	
+pada	IN	O
+pertengahan	NN	O
+November	NN	O
+,	,	
+orang	NN	B-PER
+tua	NN	I-PER
+Shalfa	NNP	B-PER
+tiba	VBI	O
+-	-	O
+tiba	VBI	O
+mendapat	VBT	O
+telepon	NN	O
+dari	IN	O
+pelatih	NN	O
+.	.	
+		
+		
+Orang	NN	B-PER
+tua	JJ	B-PER
+diperintahkan	VBT	O
+mengambil	VBT	O
+Shalfa	NNP	B-PER
+untuk	IN	O
+pulang	VBI	O
+ke	IN	O
+Kediri	NN	B-LOC
+karena	CC	O
+suatu	DT	O
+alasan	NN	O
+tertentu	JJ	O
+.	.	
+		
+		
+Saat	NN	O
+orang	NN	B-PER
+tua	NN	B-PER
+tiba	VBI	O
+di	IN	O
+asrama	NN	B-LOC
+dan	CC	O
+membawa	VBT	O
+pulang	VBI	O
+Shalfa	NNP	B-PER
+kembali	RB	O
+ke	IN	O
+Kota	NN	B-LOC
+Kediri	NN	I-LOC
+,	,	
+orang	NN	B-PER
+tua	NN	I-PER
+mendengar	VBT	O
+kabar	NN	O
+bahwa	SC	O
+Shalfa	NNP	B-PER
+dipulangkan	NN	O
+karena	CC	O
+diduga	VBT	O
+tidak	NEG	O
+perawan	NN	O
+.	.	
+		
+		
+ 		
+Jadi	JJ	O
+pada	IN	O
+tanggal	NN	O
+13	CDP	O
+November	NN	O
+sore	NN	O
+,	,	
+orang	NN	B-PER
+tua	NN	I-PER
+ditelepon	VBT	O
+agar	IN	O
+ke	IN	O
+asrama	NN	B-LOC
+Pusdiklat	NN	I-LOC
+Persani	NN	I-LOC
+(	OP	I-LOC
+Gresik	FW	I-LOC
+)	CP	I-LOC
+untuk	IN	O
+menjemput	VBT	O
+anaknya	NN	B-PER
+karena	CC	O
+tidak	NEG	O
+dapat	MD	O
+dipertahankan	VBT	O
+karena	CC	O
+isu	NNP	O
+tidak	NEG	O
+perawan,	NN	O
+ 		
+ujar	VBT	O
+penasihat	NN	B-PER
+hukum	NN	I-PER
+keluarga	NN	I-PER
+Imam	NNP	B-PER
+Muhklas	NNP	I-PER
+kepada	IN	O
+detikcom	NN	O
+.	.	
+		
+		
+Imam	NNP	B-PER
+mengatakan	VBI	O
+tentu	RB	O
+saja	RB	O
+isu	NNP	O
+itu	DT	O
+membuat	VBT	O
+orang	NN	B-PER
+tua	NN	I-PER
+Shalfa	NNP	I-PER
+syok	NN	O
+.	.	
+		
+		
+Orang	NN	B-PER
+tua	JJ	I-PER
+Shalfa	NNP	I-PER
+tidak	NEG	O
+terima	VBI	O
+dengan	IN	O
+alasan	NN	O
+pemulangan	NN	O
+anaknya	NN	O
+karena	CC	O
+isu	NNP	O
+tersebut	DT	O
+.	.	
+Orang	NN	B-PER
+tua	JJ	I-PER
+menegaskan	VBT	O
+Shalfa	NNP	B-PER
+adalah	VBT	O
+anak	NN	O
+yang	SC	O
+baik	JJ	O
+.	.	
+		
+		
+Presiden	NN	B-PER
+Joko	NNP	I-PER
+Widodo	NNP	I-PER
+memberikan	VBT	O
+bendera	NN	O
+kepada	IN	O
+ketua	NN	B-PER
+Komite	NN	I-PER
+Olimpiade	NNP	I-PER
+Indonesia	NNP	I-PER
+saat	NN	O
+pelepasan	NN	O
+atlet	NN	B-PER
+untuk	IN	O
+SEA	NN	B-ORG
+GAMES	NN	I-ORG
+2019	JJ	I-ORG
+di	IN	O
+Istana	NN	B-LOC
+Bogor	NNP	I-LOC
+,	,	
+Jawabarat	NNP	I-LOC
+.	.	
+		
+		
+Presiden	NN	B-PER
+resmi	JJ	O
+melepas	VBT	O
+841	CDP	O
+atlet	NN	B-PER
+Indonesia	NNP	B-LOC
+untuk	IN	O
+berlaga	VBI	O
+di	IN	O
+SEA	NN	B-ORG
+GAMES	NN	-I-ORG
+2019	CDP	I-ORG
+,	,	
+di	IN	I-ORG
+Fiiphina	NNP	B-LOC
+.	.	
+		
+		
+Presiden	NN	B-PER
+Joko	NNP	I-PER
+Widodo	NNP	I-PER
+juga	RB	O
+memberikan	VBT	O
+sambutan	NN	O
+kepada	IN	O
+para	DT	O
+atlet	NN	B-PER
+Indonesia	NNP	I-PER
+.	.	
+		
+		
+Pada	IN	O
+kejuaraan	NN	O
+tahun	NN	O
+ini	DT	O
+,	,	
+Indonesia	NNP	B-ORG
+turun	VBI	O
+di	IN	O
+51	CDP	O
+cabang	NN	O
+olahraga	NN	O
+dari	IN	O
+56	CDP	O
+cabang	NN	O
+olahraga	NN	O
+yang	SC	O
+di	IN	O
+pertandingkan	NN	O
+.	.	
+		
+		
+Sejumlah	CDI	O
+atlet	NN	B-PER
+tengah	NN	O
+mengikuti	VBT	O
+upacara	NN	O
+pelepasan	NN	O
+tersebut	DT	O
+yang	SC	O
+diadakan	VBT	O
+di	IN	O
+Istana	NN	B-LOC
+Bogor	NNP	I-LOC
+,	,	
+Jawabarat	NNP	I-LOC
+.	.	
+		
+		
+Upacara	NN	O
+pelepasan	NN	O
+atlet	NN	O
+ini	DT	O
+juga	RB	O
+dihadiri	VBT	O
+oleh	IN	O
+Kemenpora	NN	B-PER
+,	,	
+Ketua	NN	B-PER
+Komite	NN	I-PER
+Olimpiade	NNP	I-PER
+Indonesia	NNP	I-PER
+,	,	
+Ketua	NN	B-PER
+Kontingen	NN	I-PER
+Indonesia	NNP	I-PER
+dan	CC	O
+Sesmenpora	NN	B-PER
+.	.	
+		
+		
+Panitia	NN	B-PER
+penyelenggara	NN	O
+SEA	NN	B-ORG
+Games	NN	I-ORG
+2019	JJ	I-ORG
+di	IN	O
+Filipina	NNP	B-LOC
+disebut	VBT	O
+sengaja	VBT	O
+mengabaikan	VBT	O
+saran	NN	O
+untuk	IN	O
+menyediakan	VBT	O
+makanan	NN	O
+halal	NN	O
+dari	IN	O
+Komisi	NN	I-ORG
+Nasional	JJ	I-ORG
+Muslim	NNP	I-ORG
+Filipina	NNP	I-LOC
+(	OP	O
+NCMF)	NNP	I-ORG
+.	.	
+		
+		
+Direktur	NN	B-PER
+Hubungan	NN	I-PER
+Eksternal	NN	I-PER
+NCMF	NNP	I-PER
+,	,	O
+Dimapuno	NNP	B-PER
+Alonto	NNP	I-PER
+Datu	NNP	I-PER
+-	-	
+Ramos	NN	I-PER
+Jr	NN	I-PER
+,	,	
+mengaku	VBI	O
+sudah	MD	O
+sempat	RB	O
+memberikan	VBT	O
+rekomendasi	NN	O
+agar	IN	O
+panitia	NN	O
+penyelenggara	NN	O
+menyediakan	VBT	O
+pula	RB	O
+makanan	NN	O
+halal	NN	O
+di	IN	O
+ajang	NN	O
+SEA	NN	I-ORG
+Games	NN	I-ORG
+2019	CDP	I-ORG
+.	.	
